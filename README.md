@@ -48,7 +48,7 @@ This will produce a two-panel figure comparing model predictions of:
 
 with observations from Wakker et al. (2009).
 
-### 3. Interactive Exploration (Optional)
+### 3. Interactive Exploration
 
 Open the Jupyter notebook:
 
