@@ -10,7 +10,7 @@ This repository contains code and data for reproducing figures and results from:
 
 ```
 Github/
-├── data/                  # ion fraction tables and observational line ratio data
+├── data/                  # ion fraction table and observational line ratio data
 │   ├── tab2.txt
 │   └── wakker.txt
 ├── scripts/               # Plotting scripts for profiles and diagnostics
