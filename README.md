@@ -34,7 +34,7 @@ Github/
 python scripts/plot_profiles.py
 ```
 
-This generates figures for number density, temperature, and pressure across static and evaporative fronts (as in Figures 2–3 of the paper).
+This generates figures for number density, temperature, and pressure across static and evaporative fronts (as in Figures 1–4 of the paper).
 
 ### 2. Generate Line Ratio Diagnostics
 
@@ -62,7 +62,7 @@ to re-generate and explore figures interactively.
 
 ## 📄 Data Sources
 
-- `tab2.txt`: ion fraction table (temperature grid)
+- `tab2.txt`: ion fraction table
 - `wakker.txt`: Line ratio measurements compiled from Wakker et al. (2009), used for observational comparison
 
 ---
