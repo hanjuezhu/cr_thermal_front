@@ -9,7 +9,7 @@ This repository contains code and data for reproducing figures and results from:
 ## 📂 Repository Structure
 
 ```
-Github/
+cr_thermal_front/
 ├── data/                  # ion fraction table and observational line ratio data
 │   ├── tab2.txt
 │   └── wakker.txt
