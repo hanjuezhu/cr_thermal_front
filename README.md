@@ -46,7 +46,7 @@ This will produce a two-panel figure comparing model predictions of:
 - **log [N(SiIV)/N(CIV)] vs log [N(CIV)/N(OVI)]**
 - **log [N(NV)/N(OVI)] vs log [N(CIV)/N(OVI)]**
 
-with observations from Wakker et al. (2009).
+with observations from Wakker et al. (2012).
 
 ### 3. Interactive Exploration
 
